@@ -1,0 +1,5 @@
+{
+  "name": "Prompt Vault",
+  "description": "Local application for collecting, cataloging, and storing prompts and scripts with Gemini image generation.",
+  "requestFramePermissions": []
+}
